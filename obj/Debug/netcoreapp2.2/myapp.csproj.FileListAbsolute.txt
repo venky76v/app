@@ -1,0 +1,12 @@
+C:\Users\vvenkata\Source\Repos\app\bin\Debug\netcoreapp2.2\Dockerfile
+C:\Users\vvenkata\Source\Repos\app\bin\Debug\netcoreapp2.2\myapp.deps.json
+C:\Users\vvenkata\Source\Repos\app\bin\Debug\netcoreapp2.2\myapp.runtimeconfig.json
+C:\Users\vvenkata\Source\Repos\app\bin\Debug\netcoreapp2.2\myapp.runtimeconfig.dev.json
+C:\Users\vvenkata\Source\Repos\app\bin\Debug\netcoreapp2.2\myapp.dll
+C:\Users\vvenkata\Source\Repos\app\bin\Debug\netcoreapp2.2\myapp.pdb
+C:\Users\vvenkata\Source\Repos\app\obj\Debug\netcoreapp2.2\myapp.csprojAssemblyReference.cache
+C:\Users\vvenkata\Source\Repos\app\obj\Debug\netcoreapp2.2\myapp.csproj.CoreCompileInputs.cache
+C:\Users\vvenkata\Source\Repos\app\obj\Debug\netcoreapp2.2\myapp.AssemblyInfoInputs.cache
+C:\Users\vvenkata\Source\Repos\app\obj\Debug\netcoreapp2.2\myapp.AssemblyInfo.cs
+C:\Users\vvenkata\Source\Repos\app\obj\Debug\netcoreapp2.2\myapp.dll
+C:\Users\vvenkata\Source\Repos\app\obj\Debug\netcoreapp2.2\myapp.pdb
